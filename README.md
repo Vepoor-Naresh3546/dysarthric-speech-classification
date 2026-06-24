@@ -93,7 +93,7 @@ V. Naresh
 Artificial Intelligence and Machine Learning Enthusiast
 
 GitHub:
-
+https://github.com/Vepoor-Naresh3546/dysarthric-speech-classification.git
 
 LinkedIn:
 https://www.linkedin.com/in/naresh-vepoor-1b2a45339?utm_source=share_via&utm_content=profile&utm_medium=member_android
