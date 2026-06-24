@@ -51,8 +51,8 @@ TORGO Dataset containing four classes:
 Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/dysarthric-speech-classification.git
-```
+https://github.com/Vepoor-Naresh3546/dysarthric-speech-classification.git
+
 
 Install dependencies:
 
